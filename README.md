@@ -14,5 +14,6 @@ Calci is a calculator that is built using Tkinter that is the de facto way in Py
 </ul>
 
 <h1>Demo</h1>
-https://user-images.githubusercontent.com/63967165/205477540-bbd126b0-be97-4769-99a7-18a37f5ad2b8.mp4
+https://user-images.githubusercontent.com/63967165/205477623-45e95b6b-5fc4-432e-8b3e-39d3fa750def.mp4
+
 
