@@ -1,0 +1,7 @@
+tkinter
+math
+parser
+pipwin
+pyaudio
+pyinstaller
+speech_recognition
